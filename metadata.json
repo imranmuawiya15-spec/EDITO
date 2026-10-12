@@ -1,0 +1,6 @@
+{
+  "name": "Muawiya Studios - Video Editing & Client Review Platform",
+  "description": "Professional video editing showcase, secure client review preview portal with timestamped feedback, and hire quote platform by Muawiya (Adobe Premiere Pro Editor).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
